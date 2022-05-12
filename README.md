@@ -1,5 +1,15 @@
 # A user's guide to working with me
 
+## Fun fact about me
+
+I can make the Chewbacca sound. Sometimes it comes out naturally but if you ask for it, I might do it for you :stuck_out_tongue_winking_eye:
+
+## What motivates me at work
+
+- **Transparency:** I've witnessed how keeping relevant information from people has a negative impact in their work and personal life. I believe that is better to communicate everything, even complicated scenarios, and come up with the best solution together
+- **Learning:** As an engineer I've had the opportunity of working with multidisciplinary teams, which fed my curiosity in different fields that I never imagined, like taxes and law. For me, understanding how people do their work and what are their pains, is the first step in creating value for them, so if I'm asking a lot of questions, is to understand and never to bother or waste time
+- **Innovation:** I have an [ENTP](https://www.16personalities.com/entp-personality) personality so I constantly question what has been established in order to find new ways, solutions, etc. This might keep me awake at night and I could be very passionate when sharing my point of view about something
+
 ## Things I do that may annoy you
 - **Losing focus:** Sometimes when I deep dive in a topic, I end up investigating related subjects thoroughly. If you find me wandering off please remind me of my current goal
 - **Delaying to deliver:** If a task doesn't seem challenging to me, I might take a while to complete it or even never deliver :confused:. This might be a risk for the team so if I've taken a while to finish a task, please ask me to be honest about it
